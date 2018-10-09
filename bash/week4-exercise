@@ -1,9 +1,0 @@
-myname="DJ"
-weekday=$(date +%A)
-
-echo "what is your title? "
-read mytitle
-
-echo """
-Welcome to planet $myname, $mytitle
-today is $weekday"""
